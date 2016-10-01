@@ -6,4 +6,5 @@ This project is to perform sentiment analysis on IMDB movie reviews and Twitter 
 2. applying logistic regression and naive bayes classifiers on text data.
 
 ### The detail description
+https://github.com/jay1204/Sentiment-Analytics/blob/master/Project-SentimentAnalysis.pdf
 
